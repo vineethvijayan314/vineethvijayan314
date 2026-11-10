@@ -1,3 +1,5 @@
+<p align="center"><img src="card.png" alt="Vineeth Vijayan, Senior Software Engineer" width="100%"></p>
+
 ### Hi, I'm Vineeth 👋
 
 Senior Software Engineer with 14+ years building web and mobile products end-to-end — from architecture through deployment. Based in Tampere, Finland.
